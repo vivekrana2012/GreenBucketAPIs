@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "body-parser": "*",
     "express": "4.16.1",
     "mongodb": "*",
-    "body-parser": "*",
     "nodemon": "*",
     "password-hash": "*"
   },

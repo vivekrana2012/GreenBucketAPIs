@@ -3,3 +3,7 @@ Inside registerWithMongo
 Connected
 Registered
 In final callback, sending response
+Inside registerWithMongo
+Connected
+Unable to register
+In final callback, sending response
