@@ -1,0 +1,17 @@
+
+Inside checkWithMongo
+Connected
+Authenticated
+In final callback, sending response
+Inside checkWithMongo
+Connected
+Authenticated
+In final callback, sending response
+Inside checkWithMongo
+Connected
+Authenticated
+In final callback, sending response
+Inside checkWithMongo
+Connected
+Authenticated
+In final callback, sending response

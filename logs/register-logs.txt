@@ -1,0 +1,5 @@
+
+Inside registerWithMongo
+Connected
+Registered
+In final callback, sending response
